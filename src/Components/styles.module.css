@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Roboto&display=swap');
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+form {
+    display: grid;
+    place-items: center;
+}
+
+.formContainer {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    border: 1px solid silver;
+    border-radius: 8px;
+}
+
+input {
+    margin: 10px 0;
+    font-size: 1rem;
+    width: 20vw;
+    height: 2rem;
+    border-radius: 5px;
+}
+
+button {
+    width: 35%;
+    height: 2rem;
+    margin: 10px;
+    border-radius: 5px;
+    color: azure;
+    background-color: #c08dd5;
+}
+
+button:hover {
+    background-color: #c18dd586;
+    cursor: pointer;
+    color: azure;
+}
+
+img {
+    width: 130px;
+    height: 130px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    text-align: center;
+    border: 1px solid #e8dced;
+    margin: auto;
+    border-radius: 10px;
+    width: 30%;
+}
+
+.navContainer {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 3% 0;
+    padding: 0 10%;
+}
+
+.navContainer button {
+    width: 15%;
+    height: 2rem;
+    border-radius: 5px;
+    color: azure;
+    background-color: #c08dd5;
+}
+.navContainer button:hover {
+    background-color: #c18dd586;
+    cursor: pointer;
+    color: azure;
+}
+
+.buttonSubmit {
+    width: 10vw;
+}
+
+.buttonSubmit:hover {
+    width: 10vw;
+    background-color: #c18dd586;
+    cursor: pointer;
+}
+
+.message {
+    text-align: center;
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: #e7fbd9de;
+    margin: 2% auto;
+    width: 15%;
+    font-size: 1rem;
+    color: green;
+    padding: 1rem;
+}
