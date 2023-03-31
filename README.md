@@ -8,3 +8,6 @@
 
 
 🔗[Demo](https://products-digital-house.netlify.app)
+
+<img src="https://github.com/XimenaLargo96/XimenaLargo96/blob/main/post.gif"/>
+
