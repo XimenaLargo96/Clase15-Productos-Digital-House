@@ -7,7 +7,9 @@
 #### ● Cada componente de la lista debe tener un botón de borrado, de modo que cuando el usuario haga clic en él, se borre el elemento relacionado con el mismo.
 
 
-🔗[Demo](https://products-digital-house.netlify.app)
+🔗[Link al sitio](https://products-digital-house.netlify.app)
 
-<img src="https://github.com/XimenaLargo96/XimenaLargo96/blob/main/post.gif"/>
+Nuestra app se verá así:
+
+<img src="https://github.com/XimenaLargo96/PersonalRepository/blob/main/imgs/post.gif"/>
 
